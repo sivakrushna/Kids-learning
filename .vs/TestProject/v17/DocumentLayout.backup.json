@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Testing\\TestProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE07701-134F-9DD0-F36C-F385BB4D61DF}|Assembly-CSharp.csproj|d:\\testing\\testproject\\assets\\scripts\\draggable3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE07701-134F-9DD0-F36C-F385BB4D61DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\draggable3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE07701-134F-9DD0-F36C-F385BB4D61DF}|Assembly-CSharp.csproj|d:\\testing\\testproject\\assets\\scripts\\brushingsetupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE07701-134F-9DD0-F36C-F385BB4D61DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\brushingsetupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE07701-134F-9DD0-F36C-F385BB4D61DF}|Assembly-CSharp.csproj|D:\\Testing\\TestProject\\assets\\scripts\\dragdropitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE07701-134F-9DD0-F36C-F385BB4D61DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dragdropitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE07701-134F-9DD0-F36C-F385BB4D61DF}|Assembly-CSharp.csproj|D:\\Testing\\TestProject\\assets\\scripts\\draggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE07701-134F-9DD0-F36C-F385BB4D61DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\draggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE07701-134F-9DD0-F36C-F385BB4D61DF}|Assembly-CSharp.csproj|D:\\Testing\\TestProject\\assets\\scripts\\wakeupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE07701-134F-9DD0-F36C-F385BB4D61DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wakeupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE07701-134F-9DD0-F36C-F385BB4D61DF}|Assembly-CSharp.csproj|D:\\Testing\\TestProject\\assets\\scripts\\testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE07701-134F-9DD0-F36C-F385BB4D61DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Draggable3D.cs",
+              "DocumentMoniker": "D:\\Testing\\TestProject\\Assets\\Scripts\\Draggable3D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Draggable3D.cs",
+              "ToolTip": "D:\\Testing\\TestProject\\Assets\\Scripts\\Draggable3D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Draggable3D.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T10:39:50.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrushingSetupController.cs",
+              "DocumentMoniker": "D:\\Testing\\TestProject\\Assets\\Scripts\\BrushingSetupController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BrushingSetupController.cs",
+              "ToolTip": "D:\\Testing\\TestProject\\Assets\\Scripts\\BrushingSetupController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BrushingSetupController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T10:22:07.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DragDropItem.cs",
+              "DocumentMoniker": "D:\\Testing\\TestProject\\Assets\\Scripts\\DragDropItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DragDropItem.cs",
+              "ToolTip": "D:\\Testing\\TestProject\\Assets\\Scripts\\DragDropItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DragDropItem.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T10:34:00.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Draggable.cs",
+              "DocumentMoniker": "D:\\Testing\\TestProject\\Assets\\Scripts\\Draggable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Draggable.cs",
+              "ToolTip": "D:\\Testing\\TestProject\\Assets\\Scripts\\Draggable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Draggable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T10:19:48.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WakeUpController.cs",
+              "DocumentMoniker": "D:\\Testing\\TestProject\\Assets\\Scripts\\WakeUpController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WakeUpController.cs",
+              "ToolTip": "D:\\Testing\\TestProject\\Assets\\Scripts\\WakeUpController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WakeUpController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowD4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:33:33.669Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Testing.cs",
+              "DocumentMoniker": "D:\\Testing\\TestProject\\Assets\\Scripts\\Testing.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Testing.cs",
+              "ToolTip": "D:\\Testing\\TestProject\\Assets\\Scripts\\Testing.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Testing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T16:09:00.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
